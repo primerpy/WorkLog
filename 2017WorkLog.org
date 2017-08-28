@@ -2607,3 +2607,10 @@ plt.plot(np.random.randn(1000))
 <div id="line-chart-payment-over-time">
     <h3>Line Chart: Payment over Time</h3>
 </div>
+** Aug 28 in NYC <2017-08-28 Mon>            :day:
+*** TODO IR Steel Discussion
+*** TODO Bentler
+*** DONE DC.js
+*** TODO Crossfilter dimension and group review
+*** TODO Senmantic UI
+*** TODO Dashboard WIP
