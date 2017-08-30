@@ -2621,5 +2621,7 @@ plt.plot(np.random.randn(1000))
 **** TODO Only include public pricebook if it's lower than IR prices
 **** 
 ** Aug 30 in NYC <2017-08-30 Wed>            :day:
-
+*** IR
+*** Bentler
+*** Dashboard
 
