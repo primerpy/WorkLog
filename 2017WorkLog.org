@@ -2614,3 +2614,12 @@ plt.plot(np.random.randn(1000))
 *** TODO Crossfilter dimension and group review
 *** TODO Senmantic UI
 *** TODO Dashboard WIP
+** Aug 29 in NYC <2017-08-29 Tue>
+*** IR 
+**** TODO Compile all grade benchmarks: DDS and EDDS
+**** TODO Check the AV benchmarks
+**** TODO Only include public pricebook if it's lower than IR prices
+**** 
+** Aug 30 in NYC <2017-08-30 Wed>            :day:
+
+
