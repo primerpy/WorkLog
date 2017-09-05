@@ -2638,3 +2638,7 @@ plt.plot(np.random.randn(1000))
 **** Call
 *** Bentler
 **** Draft
+* 2017-Sep-log
+** Sep 5 in NYC <2017-09-05 Tue>             :day:
+*** D3
+*** Web
